@@ -1,0 +1,7 @@
+{
+    "azureAutomation.directory.basePath": "c:\\Users\\zferguson",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
